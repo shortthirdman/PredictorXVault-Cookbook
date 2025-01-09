@@ -93,6 +93,9 @@ Both classification and regression play a vital role in real-world applications,
 
 * [Decision Tree Classifier](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/classification/Decision_Tree_Classifier.ipynb)
 
+* [Predicted Probability](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/classification/Predicted_Probability.ipynb)
+
+
 ## References
 
 - [Gradient Boosting Regressor - Towards Data Science](https://towardsdatascience.com/gradient-boosting-regressor-explained-a-visual-guide-with-code-examples-c098d1ae425c)
@@ -102,3 +105,5 @@ Both classification and regression play a vital role in real-world applications,
 - [Dummy Regressor - Towards Data Science](https://towardsdatascience.com/dummy-regressor-explained-a-visual-guide-with-code-examples-for-beginners-4007c3d16629)
 
 - [Decision Tree Classifier - Towards Data Science](https://towardsdatascience.com/decision-tree-classifier-explained-a-visual-guide-with-code-examples-for-beginners-7c863f06a71e)
+
+- [Predicted Probability - Towards Data Science](https://towardsdatascience.com/predicted-probability-explained-a-visual-guide-with-code-examples-for-beginners-7c34e8994ec2)
