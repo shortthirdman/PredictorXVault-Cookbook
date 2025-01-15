@@ -4,7 +4,10 @@ Master Machine Learning: A Collection of Classification &amp; Regression Algorit
 
 > Machine Learning Techniques Explained: A Visual Guide with Code Examples
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shortthirdman/PredictorXVault-Cookbook/main)
+
+
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook?type=file&extension=ipynb&style=for-the-badge&logo=jupyter&label=Jupyter%20Notebooks)
 
 
 ### **Machine Learning - Classification and Regression**
@@ -67,7 +70,7 @@ Both classification and regression play a vital role in real-world applications,
   - Install the packages and dependencies as listed in requirements file
 	
 	```shell
-	pip install -r requirements.txt --no-cache-dir --disable-pip-version-check
+	pip install -U -r requirements.txt --no-cache-dir --disable-pip-version-check
 	```
 
   - Start your development `Jupyter Notebook` or `Jupyter Lab` server
@@ -82,11 +85,15 @@ Both classification and regression play a vital role in real-world applications,
 
 ## Code Examples
 
-* [Gradient Boosting Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/Gradient_Boosting_Regressor.ipynb)
+* [Gradient Boosting Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/regression/Gradient_Boosting_Regressor.ipynb)
 
-* [Decision Tree Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/Decision_Tree_Regressor.ipynb)
+* [Decision Tree Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/regression/Decision_Tree_Regressor.ipynb)
 
-* [Dummy Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/Dummy_Regressor.ipynb)
+* [Dummy Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/regression/Dummy_Regressor.ipynb)
+
+* [Decision Tree Classifier](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/classification/Decision_Tree_Classifier.ipynb)
+
+* [Predicted Probability](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/classification/Predicted_Probability.ipynb)
 
 
 ## References
@@ -96,3 +103,7 @@ Both classification and regression play a vital role in real-world applications,
 - [Decision Tree Regressor - Towards Data Science](https://towardsdatascience.com/decision-tree-regressor-explained-a-visual-guide-with-code-examples-fbd2836c3bef)
 
 - [Dummy Regressor - Towards Data Science](https://towardsdatascience.com/dummy-regressor-explained-a-visual-guide-with-code-examples-for-beginners-4007c3d16629)
+
+- [Decision Tree Classifier - Towards Data Science](https://towardsdatascience.com/decision-tree-classifier-explained-a-visual-guide-with-code-examples-for-beginners-7c863f06a71e)
+
+- [Predicted Probability - Towards Data Science](https://towardsdatascience.com/predicted-probability-explained-a-visual-guide-with-code-examples-for-beginners-7c34e8994ec2)
