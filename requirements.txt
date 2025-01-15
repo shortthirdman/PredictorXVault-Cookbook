@@ -4,6 +4,7 @@ seaborn
 matplotlib
 statsmodels
 scikit-learn
+tensorflow==2.18.0
 notebook
 jupyterlab
 jupyter_contrib_nbextensions
