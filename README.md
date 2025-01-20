@@ -115,3 +115,5 @@ Both classification and regression play a vital role in real-world applications,
 - [Sentiment Analysis with Transformers - Part II](https://towardsdatascience.com/sentiment-analysis-with-transformers-a-complete-deep-learning-project-pt-ii-ad8d220ec26d)
 
 - [Anello92/Deep-Learning-Classification](https://github.com/Anello92/Deep-Learning-Classification)
+
+- [Satellite Image Classification - Deep Classification](https://towardsdatascience.com/satellite-image-classification-with-deep-learning-complete-project-e4cb44337393)
