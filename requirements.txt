@@ -3,13 +3,14 @@ pandas
 seaborn
 matplotlib
 statsmodels
+featuretools
 scikit-learn
 tensorflow==2.18.0
 notebook
 jupyterlab
-jupyter_contrib_nbextensions
-jupyter_nbextensions_configurator
+ipywidgets
 jupyter-lsp
 jupyterlab-lsp
-featuretools
 python-dotenv
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
