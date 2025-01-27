@@ -117,3 +117,5 @@ Both classification and regression play a vital role in real-world applications,
 - [Anello92/Deep-Learning-Classification](https://github.com/Anello92/Deep-Learning-Classification)
 
 - [Satellite Image Classification - Deep Classification](https://towardsdatascience.com/satellite-image-classification-with-deep-learning-complete-project-e4cb44337393)
+
+- [Model Calibration - Towards Data Science](https://towardsdatascience.com/model-calibration-explained-a-visual-guide-with-code-examples-for-beginners-55f368bafe72)
