@@ -119,3 +119,7 @@ Both classification and regression play a vital role in real-world applications,
 - [Satellite Image Classification - Deep Classification](https://towardsdatascience.com/satellite-image-classification-with-deep-learning-complete-project-e4cb44337393)
 
 - [Model Calibration - Towards Data Science](https://towardsdatascience.com/model-calibration-explained-a-visual-guide-with-code-examples-for-beginners-55f368bafe72)
+
+- [Dummy Classifier - Towards Data Science](https://towardsdatascience.com/dummy-classifier-explained-a-visual-guide-with-code-examples-for-beginners-009ff95fc86e)
+
+- [AdaBoost Classifier - Towards Data Science](https://towardsdatascience.com/adaboost-classifier-explained-a-visual-guide-with-code-examples-fc0f25326d7b)
