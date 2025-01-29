@@ -107,3 +107,15 @@ Both classification and regression play a vital role in real-world applications,
 - [Decision Tree Classifier - Towards Data Science](https://towardsdatascience.com/decision-tree-classifier-explained-a-visual-guide-with-code-examples-for-beginners-7c863f06a71e)
 
 - [Predicted Probability - Towards Data Science](https://towardsdatascience.com/predicted-probability-explained-a-visual-guide-with-code-examples-for-beginners-7c34e8994ec2)
+
+- [Bias-Variance Tradeoff vs. Double Descent Phenomenon](https://towardsdatascience.com/going-beyond-bias-variance-tradeoff-into-double-descent-phenomenon-4efd2c4f86d3)
+
+- [Sentiment Analysis with Transformers - Part I](https://towardsdatascience.com/sentiment-analysis-with-transformers-a-complete-deep-learning-project-pt-i-d4ca7e47d676)
+
+- [Sentiment Analysis with Transformers - Part II](https://towardsdatascience.com/sentiment-analysis-with-transformers-a-complete-deep-learning-project-pt-ii-ad8d220ec26d)
+
+- [Anello92/Deep-Learning-Classification](https://github.com/Anello92/Deep-Learning-Classification)
+
+- [Satellite Image Classification - Deep Classification](https://towardsdatascience.com/satellite-image-classification-with-deep-learning-complete-project-e4cb44337393)
+
+- [Model Calibration - Towards Data Science](https://towardsdatascience.com/model-calibration-explained-a-visual-guide-with-code-examples-for-beginners-55f368bafe72)
