@@ -119,3 +119,13 @@ Both classification and regression play a vital role in real-world applications,
 - [Satellite Image Classification - Deep Classification](https://towardsdatascience.com/satellite-image-classification-with-deep-learning-complete-project-e4cb44337393)
 
 - [Model Calibration - Towards Data Science](https://towardsdatascience.com/model-calibration-explained-a-visual-guide-with-code-examples-for-beginners-55f368bafe72)
+
+- [Dummy Classifier - Towards Data Science](https://towardsdatascience.com/dummy-classifier-explained-a-visual-guide-with-code-examples-for-beginners-009ff95fc86e)
+
+- [AdaBoost Classifier - Towards Data Science](https://towardsdatascience.com/adaboost-classifier-explained-a-visual-guide-with-code-examples-fc0f25326d7b)
+
+- [Least Squares Regression - Towards Data Science](https://medium.com/towards-data-science/least-squares-regression-explained-a-visual-guide-with-code-examples-for-beginners-2e5ad011eae4)
+
+- [Lasso and Elastic Net Regressions - Towards Data Science](https://medium.com/towards-data-science/lasso-and-elastic-net-regressions-explained-a-visual-guide-with-code-examples-5fecf3e1432f)
+
+- [Extra Trees - Towards Data Science](https://medium.com/@samybaladram/extra-trees-explained-a-visual-guide-with-code-examples-4c2967cedc75)
