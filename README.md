@@ -127,3 +127,5 @@ Both classification and regression play a vital role in real-world applications,
 - [Least Squares Regression - Towards Data Science](https://medium.com/towards-data-science/least-squares-regression-explained-a-visual-guide-with-code-examples-for-beginners-2e5ad011eae4)
 
 - [Lasso and Elastic Net Regressions - Towards Data Science](https://medium.com/towards-data-science/lasso-and-elastic-net-regressions-explained-a-visual-guide-with-code-examples-5fecf3e1432f)
+
+- [Extra Trees - Towards Data Science](https://medium.com/@samybaladram/extra-trees-explained-a-visual-guide-with-code-examples-4c2967cedc75)
