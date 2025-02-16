@@ -83,6 +83,8 @@ Both classification and regression play a vital role in real-world applications,
 	jupyter notebook
 	```
 
+---
+
 ## Code Examples
 
 * [Gradient Boosting Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/regression/Gradient_Boosting_Regressor.ipynb)
@@ -95,6 +97,7 @@ Both classification and regression play a vital role in real-world applications,
 
 * [Predicted Probability](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/classification/Predicted_Probability.ipynb)
 
+---
 
 ## References
 
