@@ -134,3 +134,5 @@ Both classification and regression play a vital role in real-world applications,
 - [Extra Trees - Towards Data Science](https://medium.com/@samybaladram/extra-trees-explained-a-visual-guide-with-code-examples-4c2967cedc75)
 
 - [4-Dimensional Data Visualization: Time in Bubble Charts](https://medium.com/data-science-collective/4-dimensional-data-visualization-time-in-bubble-charts-e9a774203ef3)
+
+- [Semi-supervised Learning](https://medium.com/data-science-collective/semi-supervised-learning-smarter-models-with-less-labeled-data-ac293ac0cb19)
