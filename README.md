@@ -7,7 +7,9 @@ Master Machine Learning: A Collection of Classification &amp; Regression Algorit
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shortthirdman/PredictorXVault-Cookbook/main)
 
 
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook?type=file&extension=ipynb&style=for-the-badge&logo=jupyter&label=Jupyter%20Notebooks)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge) ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook?type=file&extension=ipynb&style=for-the-badge) ![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)
+
+<!-- ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook?type=file&extension=ipynb&style=for-the-badge&logo=jupyter&label=Jupyter%20Notebooks) -->
 
 
 ### **Machine Learning - Classification and Regression**
@@ -60,42 +62,21 @@ Both classification and regression play a vital role in real-world applications,
   - Create a Python virtual environment and activate
 	
 	```shell
-	python -m venv dev
-	```
-	
-	```shell
-	.\dev\Scripts\activate
+	$ python -m venv dev
+	$ ./dev/Scripts/activate
 	```
 
   - Install the packages and dependencies as listed in requirements file
 	
 	```shell
-	pip install -U -r requirements.txt --no-cache-dir --disable-pip-version-check
+	$ pip install -U -r requirements.txt --no-cache-dir --disable-pip-version-check
 	```
 
   - Start your development `Jupyter Notebook` or `Jupyter Lab` server
 	
 	```shell
-	jupyter lab --notebook-dir=.\notebooks --no-browser
+	$ jupyter lab --notebook-dir=.\notebooks --no-browser
 	```
-	
-	```shell
-	jupyter notebook
-	```
-
----
-
-## Code Examples
-
-* [Gradient Boosting Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/regression/Gradient_Boosting_Regressor.ipynb)
-
-* [Decision Tree Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/regression/Decision_Tree_Regressor.ipynb)
-
-* [Dummy Regressor](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/regression/Dummy_Regressor.ipynb)
-
-* [Decision Tree Classifier](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/classification/Decision_Tree_Classifier.ipynb)
-
-* [Predicted Probability](https://nbviewer.org/github/shortthirdman/PredictorXVault-Cookbook/blob/main/notebooks/classification/Predicted_Probability.ipynb)
 
 ---
 
