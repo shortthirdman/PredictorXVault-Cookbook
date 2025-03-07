@@ -64,6 +64,7 @@ Both classification and regression play a vital role in real-world applications,
 	```shell
 	$ python -m venv dev
 	$ ./dev/Scripts/activate
+	$ export PIP_CONFIG_FILE=".\pip.conf"
 	```
 
   - Install the packages and dependencies as listed in requirements file
