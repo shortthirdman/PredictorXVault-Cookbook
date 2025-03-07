@@ -70,6 +70,7 @@ Both classification and regression play a vital role in real-world applications,
   - Install the packages and dependencies as listed in requirements file
 	
 	```shell
+	$ python -m pip install --upgrade pip
 	$ pip install -U -r requirements.txt --no-cache-dir --disable-pip-version-check
 	```
 
