@@ -64,11 +64,13 @@ Both classification and regression play a vital role in real-world applications,
 	```shell
 	$ python -m venv dev
 	$ ./dev/Scripts/activate
+	$ export PIP_CONFIG_FILE=".\pip.conf"
 	```
 
   - Install the packages and dependencies as listed in requirements file
 	
 	```shell
+	$ python -m pip install --upgrade pip
 	$ pip install -U -r requirements.txt --no-cache-dir --disable-pip-version-check
 	```
 
