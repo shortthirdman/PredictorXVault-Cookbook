@@ -62,7 +62,7 @@ Both classification and regression play a vital role in real-world applications,
   - Create a Python virtual environment and activate
 	
 	```shell
-	$ python -m venv dev
+	$ python -m venv --upgrade-deps --clear dev
 	$ ./dev/Scripts/activate
 	$ export PIP_CONFIG_FILE=".\pip.conf"
 	```
@@ -70,7 +70,6 @@ Both classification and regression play a vital role in real-world applications,
   - Install the packages and dependencies as listed in requirements file
 	
 	```shell
-	$ python -m pip install --upgrade pip
 	$ pip install -U -r requirements.txt --no-cache-dir --disable-pip-version-check
 	```
 
@@ -121,5 +120,3 @@ Both classification and regression play a vital role in real-world applications,
 - [Semi-supervised Learning](https://medium.com/data-science-collective/semi-supervised-learning-smarter-models-with-less-labeled-data-ac293ac0cb19)
 
 - [Data Exploration in Python](https://medium.com/towards-data-science/techniques-for-exploratory-data-analysis-and-interpretation-of-statistical-graphs-383ce57a6d0a)
-
-- [Demand Forecasting Model with TensorFlow](https://medium.com/data-science-collective/hands-on-demand-forecasting-model-with-tensorflow-06efff34c793)
