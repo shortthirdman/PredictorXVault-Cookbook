@@ -26,13 +26,13 @@ jobs:
           COUNT=${{ steps.count_notebooks.outputs.count }}
           BADGE_URL="![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks_Python3-${COUNT}-brightgreen?style=for-the-badge&logo=jupyter&logoSize=auto&label=Jupyter%20Notebooks%20(Python3))"
 
-          # Replace badge line inside markers
+          # Safely update the README badge using sed with custom delimiter
           sed -i -E "s|(<!-- notebook-badge-start -->).*?(<!-- notebook-badge-end -->)|\1 ${BADGE_URL} \2|" README.md
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add README.md
           git commit -m "Update notebook count badge in README" || echo "No changes to commit"
           git push
