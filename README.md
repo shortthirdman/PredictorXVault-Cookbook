@@ -4,15 +4,16 @@ Master Machine Learning: A Collection of Classification &amp; Regression Algorit
 
 > Machine Learning Techniques Explained: A Visual Guide with Code Examples
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shortthirdman/PredictorXVault-Cookbook/main)	![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks_Python3-25-brightgreen?style=for-the-badge&logo=jupyter&logoSize=auto&label=Jupyter%20Notebooks%20(Python3))
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shortthirdman/PredictorXVault-Cookbook/main)	![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks_Python3-23-brightgreen?style=for-the-badge&logo=jupyter&logoSize=auto&label=Jupyter%20Notebooks%20(Python3))](/notebooks)
 
-<!-- START:notebook-badge -->
+---
 
-<!-- END:notebook-badge -->
+[![Repo directory count (classification)](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook/notebooks%2Fclassification?type=file&extension=ipynb&label=notebooks%2Fclassification&style=for-the-badge)](/notebooks/classification)
 
-<!--
-![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook/notebooks%2Fclassification?type=file&extension=ipynb&label=notebooks%2Fclassification&style=for-the-badge)	![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook/notebooks%2Fregression?type=file&extension=ipynb&label=notebooks%2Fregression&style=for-the-badge)	![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook/notebooks%2Fmiscellaneous?type=file&extension=ipynb&style=for-the-badge&label=notebooks%2Fmiscellaneous)
--->
+[![Repo directory count (regression)](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook/notebooks%2Fregression?type=file&extension=ipynb&label=notebooks%2Fregression&style=for-the-badge)](/notebooks/regression)
+
+[![Repo directory count (miscellaneous)](https://img.shields.io/github/directory-file-count/shortthirdman/PredictorXVault-Cookbook/notebooks%2Fmiscellaneous?type=file&extension=ipynb&style=for-the-badge&label=notebooks%2Fmiscellaneous)](/notebooks/miscellaneous)
+
 
 ### **Machine Learning - Classification and Regression**
 
