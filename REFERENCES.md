@@ -1,3 +1,15 @@
+### PyPi Packages
+
+```
+numpy
+pandas
+seaborn
+matplotlib
+statsmodels
+featuretools
+scikit-learn
+```
+
 ## References
 
 - [Gradient Boosting Regressor - Towards Data Science](https://towardsdatascience.com/gradient-boosting-regressor-explained-a-visual-guide-with-code-examples-c098d1ae425c)
