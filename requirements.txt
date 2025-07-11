@@ -1,15 +1,9 @@
-numpy
-pandas
-seaborn
-matplotlib
-statsmodels
-featuretools
-scikit-learn
 notebook
 jupyterlab
 ipywidgets
 jupyter-lsp
 jupyterlab-lsp
 python-dotenv
+jedi-language-server
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
