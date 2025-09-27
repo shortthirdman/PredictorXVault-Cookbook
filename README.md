@@ -4,7 +4,7 @@ Master Machine Learning: A Collection of Classification &amp; Regression Algorit
 
 > Machine Learning Techniques Explained: A Visual Guide with Code Examples
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shortthirdman/PredictorXVault-Cookbook/main)	![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks_Python3-40-brightgreen?style=for-the-badge&logo=jupyter&logoSize=auto&label=Jupyter%20Notebooks%20(Python3))](/notebooks)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shortthirdman/PredictorXVault-Cookbook/main)	![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks_Python3-41-brightgreen?style=for-the-badge&logo=jupyter&logoSize=auto&label=Jupyter%20Notebooks%20(Python3))](/notebooks)
 
 ---
 
@@ -21,6 +21,8 @@ Master Machine Learning: A Collection of Classification &amp; Regression Algorit
 
 Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn from data, identify patterns, and make decisions without explicit programming. Two of the most fundamental types of ML problems are **classification** and **regression**. Both are supervised learning tasks, meaning they rely on labeled datasets to train models.
 
+---
+
 #### **Classification**
 Classification is the task of predicting a discrete label or category for an input. The goal is to assign each instance of data to one of a predefined set of classes. Common classification algorithms include:
 
@@ -36,6 +38,8 @@ Classification is the task of predicting a discrete label or category for an inp
 - Image recognition
 - Disease diagnosis
 - Sentiment analysis
+
+---
 
 #### **Regression**
 Regression involves predicting a continuous value based on input data. Unlike classification, which outputs discrete labels, regression tasks aim to model relationships between variables and predict numerical outcomes. Common regression algorithms include:
@@ -61,6 +65,7 @@ Regression involves predicting a continuous value based on input data. Unlike cl
 
 Both classification and regression play a vital role in real-world applications, and mastering these algorithms is essential for anyone working with machine learning to unlock predictive power from data.
 
+---
 
 ## Local Development Setup
 
