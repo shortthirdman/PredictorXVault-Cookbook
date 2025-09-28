@@ -1,9 +1,12 @@
 notebook
+kagglehub
 jupyterlab
 ipywidgets
+mlcroissant
 jupyter-lsp
-jupyterlab-lsp
 python-dotenv
+jupyterlab-lsp
 jedi-language-server
+kagglehub[pandas-datasets]
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
