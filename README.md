@@ -4,7 +4,7 @@ Master Machine Learning: A Collection of Classification &amp; Regression Algorit
 
 > Machine Learning Techniques Explained: A Visual Guide with Code Examples
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shortthirdman/PredictorXVault-Cookbook/main)	![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks_Python3-70-brightgreen?style=for-the-badge&logo=jupyter&logoSize=auto&label=Jupyter%20Notebooks%20(Python3))](/notebooks)
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)	![GitHub License](https://img.shields.io/github/license/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	![GitHub repo size](https://img.shields.io/github/repo-size/shortthirdman/PredictorXVault-Cookbook?style=for-the-badge)	[![Static Badge](https://img.shields.io/badge/Jupyter_Notebooks_Python3-70-brightgreen?style=for-the-badge&logo=jupyter&logoSize=auto&label=Jupyter%20Notebooks%20(Python3))](/notebooks)	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shortthirdman/PredictorXVault-Cookbook/main)
 
 ---
 
@@ -121,7 +121,10 @@ PredictorXVault-Cookbook/
 	
 	```shell
 	$ python -m venv --upgrade-deps --clear dev
+	
+	# On Windows Powershell
 	$ ./dev/Scripts/activate
+
 	$ export PIP_CONFIG_FILE=".\pip.conf"
 	```
 
@@ -154,6 +157,7 @@ This project is licensed under the MIT License — feel free to use, modify, and
 ## 🙋‍♂️ Author
 
 Made with 🐍 and ☕ by [Swetank Mohanty](https://github.com/shortthirdman)
+
 Let’s connect on [LinkedIn](https://linkedin.com/in/shortthirdman) or [X (formerly Twitter)](https://x.com/ShortThirdMan93)
 
 ---
